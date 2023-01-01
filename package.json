@@ -3,12 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "casual": "^1.6.2",
     "cra-template": "1.2.0",
     "mobx": "^6.7.0",
     "mobx-react": "^7.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-redux": "^8.0.5",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.0",
+    "uuid": "^9.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

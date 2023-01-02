@@ -1,12 +1,7 @@
 import React from "react";
-import HomePage from "./components/HomePage";
 
 const App = () => {
-  return (
-    <div>
-      <HomePage />
-    </div>
-  );
+  return <div>hau gnuyen</div>;
 };
 
 export default App;
